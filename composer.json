@@ -1,0 +1,6 @@
+{
+    "require": {
+        "gabrielbull/ups-api": "^0.7.11",
+        "paypal/rest-api-sdk-php": "^1.11"
+    }
+}
